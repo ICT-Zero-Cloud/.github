@@ -67,6 +67,6 @@
 
 <sub>KISIA ICT융합보안크루 참여자들이 운영하는 프로젝트 공간입니다.</sub>
 
-더 많은 연구 자료와 활동 기록은 [제로클라우드 아카이브](https://github.com/ICT-Zero-Cloud/research-archive)에 공개할 예정입니다. (준비 중)
+제로클라우드의 연구와 활동이 궁금하다면 [논문과 발표 자료, 활동 기록](https://github.com/ICT-Zero-Cloud/archive)을 확인해 주세요.
 
 </div>
