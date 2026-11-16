@@ -1,0 +1,93 @@
+{
+  "papers": [
+    {
+      "slug": "n2sf-threat",
+      "title": "N2SF 환경의 신규 위협 시나리오 분석과 공격 대응을 위한 보안 아키텍처 설계",
+      "type": "포스터",
+      "award": null,
+      "paper_source": "CISC-W 2026 제출 논문\\N2SF - N2SF 환경의 신규 위협 시나리오 분석과 공격 대응을 위한 보안 아키텍처 설계.pdf",
+      "presentation_source": "논문들 실제 발표 자료\\N2SF_Poster_A0 (1).pdf",
+      "paper_sha256": "abc0fd399483f05d73adf1770d75790168a47725b5cc49eacf5525f8eb1a30ec",
+      "presentation_sha256": "3d7c44da3fce85e5352de58115cf5c5a93c3a42477145dcd7fb6fb0bf0e63cbb"
+    },
+    {
+      "slug": "n2sf-label",
+      "title": "국가 망 보안체계 정보서비스 모델3의 등급 라벨 생애주기 통제 부재와 경계 중심 대응 아키텍처",
+      "type": "구두발표",
+      "award": "한국정보보호학회장상",
+      "paper_source": "CISC-W 2026 제출 논문\\N2SF - 국가 망 보안체계 정보서비스 모델3의 등급 라벨 생애주기 통제.pdf",
+      "presentation_source": "논문들 실제 발표 자료\\N2SF 모델3 라벨 생애주기 통제 부재와 경계 중심 대응.pdf",
+      "paper_sha256": "9670aa6a7b27b4ced442199de9296df6c5de7e7fba171f01eaa89585008a22b1",
+      "presentation_sha256": "7844ca92d133818c842103f5ba0b9252ad9bafdf8ac830526341a097684a566a"
+    },
+    {
+      "slug": "n2sf-adoption",
+      "title": "공공기관의 효율적인 국가망보안체계(N²SF) 도입을 위한 의사결정 프레임워크",
+      "type": "구두발표",
+      "award": "행정안전부 장관상",
+      "paper_source": "CISC-W 2026 제출 논문\\N2SF - 공공기관의 효율적인 국가망보안체계(N²SF).pdf",
+      "presentation_source": "논문들 실제 발표 자료\\2026 CISC-W' 발표자료_이찬형.pdf",
+      "paper_sha256": "183e97a9735f0cfbb4e69d548cbd5828eee23f2c7ab68d825030ee19da4a54f8",
+      "presentation_sha256": "eb27f0d20e64f1a010413f2d390cd5c4601ffcea5f3dc671366626174995dd4c"
+    },
+    {
+      "slug": "taint",
+      "title": "클라우드 지뢰형 탐지 기술과 비가역적 Taint 기반 침해 영향 추적 구조 제안",
+      "type": "포스터",
+      "award": null,
+      "paper_source": "CISC-W 2026 제출 논문\\Taint - 클라우드 지뢰형 탐지 기술과 비가역적 Taint 기반침해 영향 추적 구조 제안.pdf",
+      "presentation_source": "논문들 실제 발표 자료\\CISC-W26_taint_최종.pdf",
+      "paper_sha256": "ee3e22512bf8cc79695a6945cb3fb2322b9bd8fb85bdbd7b672000d4154a061c",
+      "presentation_sha256": "11a555642a057b08746cba2f316f71fe8194db4386dd22b4dba7785fe01ca9cd"
+    },
+    {
+      "slug": "credential-graph",
+      "title": "자격증명 흐름과 자원 접근을 연결하는 CloudTrail 침해 조사 그래프",
+      "type": "구두발표",
+      "award": null,
+      "paper_source": "CISC-W 2026 제출 논문\\시각화 - 자격증명 흐름과 자원 접근을 연결하는 CloudTrail 침해조사 그래프.pdf",
+      "presentation_source": "논문들 실제 발표 자료\\CISC-W26_발표.pptx",
+      "paper_sha256": "a7ce098b49f321f7412bdee85198add9a77f3fc1118271db4b4a7d8ffe2fe739",
+      "presentation_sha256": "7c7acda7a2cec48f8323e4cfd2e18ce5443f301815a76ff3bdfe8ceb669f9104"
+    },
+    {
+      "slug": "state-change-graph",
+      "title": "CloudTrail 관측 공백 환경에서 AWS 인프라 상태 변화 기반 그래프 추적 모델",
+      "type": "구두발표",
+      "award": null,
+      "paper_source": "CISC-W 2026 제출 논문\\시각화 - CloudTrail AWS 관측 공백 환경에서 인프라 상태 변화.pdf",
+      "presentation_source": "논문들 실제 발표 자료\\CISC 발표자료_강인석.pdf",
+      "paper_sha256": "75f6fb71eab7d74f84090c34fdc47578a2508717f2faa8c6708e025757654b67",
+      "presentation_sha256": "6311025ab9b1d745c7804d2f69cdb9e7be3ae9dec4ee94ab1f46ee755a9d7ff5"
+    }
+  ],
+  "showcase": {
+    "source": "성과보고회 최종 자료들\\(수정본)제로클라우드 최종 성과보고회 발표자료 (1920 x 1440 px) (1) (1).pdf",
+    "original_pages": 113,
+    "public_pages": 112,
+    "excluded_original_pages": [
+      38
+    ]
+  },
+  "awards": [
+    {
+      "name": "ICT 융합보안 우수크루상",
+      "organization": "한국정보보호산업협회",
+      "date": "2026-11-10",
+      "recipient": "제로클라우드",
+      "evidence": "팀 제공 수상 내역"
+    },
+    {
+      "name": "행정안전부 장관상",
+      "date": "2026-10-29",
+      "paper": "n2sf-adoption",
+      "evidence": "성과보고회 원본 37쪽"
+    },
+    {
+      "name": "한국정보보호학회장상",
+      "date": "2026-10-29",
+      "paper": "n2sf-label",
+      "evidence": "성과보고회 원본 37쪽"
+    }
+  ]
+}
